@@ -16,7 +16,7 @@ height: 100vh;
 .menu-list{position:fixed;background-color:rgba(41,36,32,0.85);width:100%;left:0;display:flex;
 	justify-content:flex-end;}
 #home{
-background-image: url('../../portfolio/images/banner1.jpg');
+background-image: url('../images/banner1.jpg');
 height:100vh;background-size: cover;
 position:relative;
 }.menu-list li{font-size: 14px;list-style-type: none;}.menu-list li:hover{background-color: #96B6CF;}
@@ -50,7 +50,7 @@ height: 100vh;
 	text-align:center;
 	color:#353535;
 	padding: 4% 0;margin-bottom:0px;
-	background-image:url('../../portfolio/images/h1-bg.jpg');
+	background-image:url('../images/h1-bg.jpg');
 	background-repeat: no-repeat;
 	background-position: center bottom;
 }
